@@ -17,13 +17,13 @@ These instructions will help you set up and run the project on your local machin
 1. Clone the repository to your local machine:
 
     ```bash
-    git clone https://github.com/amalrajkp18/flutter-Todo-app
+    git clone https://github.com/amalrajkp18/flutter-todo-app
     ```
 
 2. Navigate to the project directory:
 
     ```bash
-    cd flutter-Todo-app
+    cd flutter-todo-app
     ```
 
 3. Install dependencies:
