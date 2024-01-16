@@ -61,7 +61,6 @@ flutter run
 
 - [build_runner](https://pub.dev/packages/build_runner): ^2.4.8
 - [flutter_lints](https://pub.dev/packages/flutter_lints): ^2.0.0
-- [flutter_test](https://flutter.dev/docs/cookbook/testing/unit/introduction): sdk: flutter
 - [objectbox_generator](https://pub.dev/packages/objectbox_generator): ^2.4.0
 
 
