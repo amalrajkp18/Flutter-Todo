@@ -17,13 +17,13 @@ These instructions will help you set up and run the project on your local machin
 1. Clone the repository to your local machine:
 
     ```bash
-    git clone https://github.com/your-username/flutter-todo-objectbox.git
+    git clone https://github.com/amalrajkp18/flutter-Todo-app
     ```
 
 2. Navigate to the project directory:
 
     ```bash
-    cd flutter-todo-objectbox
+    cd flutter-Todo-app
     ```
 
 3. Install dependencies:
